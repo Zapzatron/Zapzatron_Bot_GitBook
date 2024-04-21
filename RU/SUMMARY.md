@@ -6,4 +6,3 @@
 * [Генератор слов](generator-slov.md)
 * [Приложение](prilozhenie.md)
 * [Ссылка → Файл](ssylka-fail.md)
-* [Команды](komandy.md)
